@@ -6,7 +6,7 @@ Meme Network brings new and unique utilities to the Cosmos ecosystem and embrace
 
 ### Memes & NFTs
 
-MEME Art, is a creative application that offers essential features to create memes. All creations produced in MEME Art can be minted as [NFTs (non-fungible tokens)](../../1.-market-overview/1.2.-nft-creation-and-trading.md) and are capable to be stored and exchanged in our [MEME NFT Marketplace](../2.4.-meme-marketplace-coming-soon.md), where memers are all granted true ownership of their works as well as freedom to maximize creativity. In addition, use cases and subsequent sales in the secondary market could bring memers royalty income.
+MEME Art, is a creative application that offers essential features to create memes. All creations produced in MEME Art can be minted as [NFTs (non-fungible tokens)](../../1.-market-overview/1.2.-nft-creation-and-trading.md) and are capable to be stored and exchanged in our [MEME NFT Marketplace](../2.4.-meme-marketplace.md), where memers are all granted true ownership of their works as well as freedom to maximize creativity. In addition, use cases and subsequent sales in the secondary market could bring memers royalty income.
 
 Meme economy has been a controversial topic. As memes become an internet commodity, a good meme can even be positioned as a creative asset or a new form of currency across social media. We believe that there should be a better way to monetize memes. Meme Art fixes it and aims to explore various solutions to incentivize memers and end users to create and utilize memes on a daily basis.
 
