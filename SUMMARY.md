@@ -34,6 +34,7 @@
 
 * [Disclaimer](others/disclaimer.md)
 * [Abbreviations & Glossary](others/abbreviations-and-glossary.md)
+* [Blockchain Explorer](others/blockchain-explorer.md)
 
 ## 🔗 Official Platforms
 

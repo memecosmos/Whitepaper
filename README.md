@@ -8,7 +8,7 @@ MEME Network is a Web 3.0-based Crypto project themed on Meme culture. It provid
 
 ### Products & Services
 
-Initially, we plan to provide web content creation tools, an NFT-related platform, Web 3.0 communication tools, and an Incubator platform. On top of these services, we have built the MEME Network, a layer one blockchain, on the Cosmos Ecosystem. Since mid-2022, $MEME coins have been trading at DApp of Cosmos - Osmosis Frontier.
+Initially, we plan to provide web content creation tools, an NFT-related platform, Web 3.0 communication tools, and an Incubator platform. On top of these services, we have built the MEME Network, a layer one blockchain, on the Cosmos Ecosystem. Since mid-2022, $MEME coins have been trading at DApp of Cosmos - [Osmosis Apps](https://app.osmosis.zone/?from=USDC\&to=MEME) and [TFM](https://tfm.com/osmosis/trade/protrade?from=ibc%2F27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2\&to=ibc%2F67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA\&market=Osmosis).
 
 ### SWOT Analysis
 
