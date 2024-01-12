@@ -23,11 +23,11 @@
   * [4.2. MEME’s Liquidity Pool in OSMOSIS](4.-economy/4.2.-memes-liquidity-pool-in-osmosis.md)
   * [4.3. MEME’s Staking](4.-economy/4.3.-memes-staking.md)
   * [4.4. Content Creation & Heritage System](4.-economy/4.4.-content-creation-and-heritage-system.md)
+  * [4.5 Supply info api for Cosmos chain](4.-economy/4.5-supply-info-api-for-cosmos-chain.md)
 * [5. Technology](5.-technology/README.md)
   * [5.1. Cosmos Layer 1](5.-technology/5.1.-cosmos-layer-1.md)
   * [5.2 Relayer](5.-technology/5.2-relayer.md)
   * [5.3 Gravity Bridge](5.-technology/5.3-gravity-bridge.md)
-  * [5.4 Supply info api for Cosmos chain](5.-technology/5.4-supply-info-api-for-cosmos-chain.md)
 * [6. Team](6.-team.md)
 
 ## Others
